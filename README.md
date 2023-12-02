@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Piyush Pachariya</h1>
 <h3 align="center">Aspiring IT Enthusiast with Proficiency in MERN Stack, AWS, PHP, and SQL| Eager to Learn and Grow in Web Development ,Cloud Computing, , and AWS Services | Familiarity with VPC, Auto Scaling, Load Balancing, Docker and Kubernets| Passionate about Web Development and Cloud Technologies</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushpacharia&label=Profile%20views&color=0e75b6&style=flat" alt="piyushpacharia" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piyushpacharia" alt="piyushpacharia" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://github.com/piyushpacharia](https://github.com/piyushpacharia)
 
 - 📝 I regularly write articles on [www.linkedin.com/in/piyush-pachariya-302971243](www.linkedin.com/in/piyush-pachariya-302971243)
@@ -25,5 +21,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=piyushpacharia&show_icons=true&locale=en&layout=compact" alt="piyushpacharia" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=piyushpacharia&show_icons=true&locale=en" alt="piyushpacharia" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=piyushpacharia&" alt="piyushpacharia" /></p>
